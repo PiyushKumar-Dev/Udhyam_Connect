@@ -26,6 +26,7 @@ COPY --from=builder /root/.local /home/appuser/.local
 COPY backend /app/backend
 COPY data /app/data
 COPY alembic.ini /app/alembic.ini
+COPY backend/start.sh /app/start.sh
 
 ENV PATH=/home/appuser/.local/bin:$PATH
 
@@ -33,4 +34,4 @@ USER appuser
 
 EXPOSE 8000
 
-CMD ["uvicorn", "backend.app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "/app/start.sh"]

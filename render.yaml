@@ -20,7 +20,6 @@ services:
         generateValue: true
       - key: FRONTEND_ORIGIN
         value: https://udhyam-frontend.onrender.com
-    startCommand: "sh -c 'alembic upgrade head && python data/seed.py && uvicorn backend.app.main:app --host 0.0.0.0 --port 8000'"
 
   - type: web
     name: udhyam-frontend
