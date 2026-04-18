@@ -28,4 +28,4 @@ USER nextjs
 EXPOSE 3000
 
 ENTRYPOINT ["/sbin/tini", "--"]
-CMD ["npm", "run", "preview"]
+CMD ["npx", "serve", "-s", "dist", "-l", "3000"]
