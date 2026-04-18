@@ -1,0 +1,250 @@
+[
+  {
+    "source_uid": "LABOUR-BIZ-083-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-083",
+    "raw_name": "Cedar Reliable Foods S Pvt Ltd",
+    "raw_address": "92, Airport Rd near Nagar, Mango, Jharkhand 499091",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-083-1"
+    ],
+    "establishment_code": "LAB-083-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-084-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-084",
+    "raw_name": "Delta Royal Retail B Pvt Ltd",
+    "raw_address": "93, MG Rd near Colony, Rajpur Sonarpur, Himachal Pradesh 232812",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-084-1"
+    ],
+    "establishment_code": "LAB-084-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-085-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-085",
+    "raw_name": "Evergreen Metro Foods R V Pvt Ltd",
+    "raw_address": "94, Canal Rd near Layout, Alappuzha, Manipur 403447",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-085-1",
+      "LIC-085-2"
+    ],
+    "establishment_code": "LAB-085-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-086-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-086",
+    "raw_name": "Falcon National Retail U Pvt Ltd",
+    "raw_address": "95, MG Rd near Enclave, Muzaffarpur, Himachal Pradesh 618324",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-086-1",
+      "LIC-086-2"
+    ],
+    "establishment_code": "LAB-086-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "1-10"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-087-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-087",
+    "raw_name": "Golden Silver Foods Y Pvt Ltd",
+    "raw_address": "96, Market Rd near Bazaar, Madurai, Arunachal Pradesh 499471",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-087-1"
+    ],
+    "establishment_code": "LAB-087-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "51-100"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-088-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-088",
+    "raw_name": "Harbor Urban Retail F Pvt Ltd",
+    "raw_address": "97, Airport Rd near Layout, Avadi, Tamil Nadu 488771",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-088-1",
+      "LIC-088-2"
+    ],
+    "establishment_code": "LAB-088-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "1-10"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-089-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-089",
+    "raw_name": "Indus Eastern Foods G Pvt Ltd",
+    "raw_address": "98, College Rd near Layout, Bhiwani, Telangana 940139",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-089-1",
+      "LIC-089-2"
+    ],
+    "establishment_code": "LAB-089-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-090-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-090",
+    "raw_name": "Jade United Retail R Pvt Ltd",
+    "raw_address": "10, Lake Rd near Extension, Agartala, Odisha 278742",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-090-1"
+    ],
+    "establishment_code": "LAB-090-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-091-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-091",
+    "raw_name": "Keystone Agro Foods M Pvt Ltd",
+    "raw_address": "11, MG Rd near Enclave, Pallavaram, Assam 565512",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-091-1",
+      "LIC-091-2"
+    ],
+    "establishment_code": "LAB-091-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-092-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-092",
+    "raw_name": "Lotus Vertex Retail T Pvt Ltd",
+    "raw_address": "12, Park Rd near Nagar, Bulandshahr, Tamil Nadu 468071",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-092-1"
+    ],
+    "establishment_code": "LAB-092-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-093-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-093",
+    "raw_name": "Meridian Reliable Foods D Pvt Ltd",
+    "raw_address": "13, Canal Rd near Layout, Nizamabad, Karnataka 680876",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-093-1"
+    ],
+    "establishment_code": "LAB-093-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-094-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-094",
+    "raw_name": "Nova Royal Retail Q Pvt Ltd",
+    "raw_address": "14, Park Rd near Enclave, Maheshtala, Mizoram 977034",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-094-1"
+    ],
+    "establishment_code": "LAB-094-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "26-50"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-095-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-095",
+    "raw_name": "Orbit Metro Foods B Pvt Ltd",
+    "raw_address": "15, Airport Rd near Nagar, Tumkur, Manipur 109324",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-095-1"
+    ],
+    "establishment_code": "LAB-095-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "11-25"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-096-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-096",
+    "raw_name": "Prime National Retail B Pvt Ltd",
+    "raw_address": "16, Market Rd near Enclave, Suryapet, Maharashtra 317127",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-096-1",
+      "LIC-096-2"
+    ],
+    "establishment_code": "LAB-096-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "11-25"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-097-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-097",
+    "raw_name": "Quantum Silver Foods X Pvt Ltd",
+    "raw_address": "17, Park Rd near Extension, Danapur, Tamil Nadu 677378",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-097-1",
+      "LIC-097-2"
+    ],
+    "establishment_code": "LAB-097-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "11-25"
+  },
+  {
+    "source_uid": "LABOUR-BIZ-098-S7",
+    "source_system": "LABOUR",
+    "business_seed_id": "BIZ-098",
+    "raw_name": "Riverstone Urban Retail D Pvt Ltd",
+    "raw_address": "18, College Rd near Extension, Yamunanagar, Gujarat 146584",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-098-1",
+      "LIC-098-2"
+    ],
+    "establishment_code": "LAB-098-S7",
+    "issuing_department": "Labour Department",
+    "employee_band": "1-10"
+  }
+]

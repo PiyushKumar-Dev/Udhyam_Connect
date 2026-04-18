@@ -1,0 +1,13 @@
+alembic
+faker
+fastapi
+jellyfish
+pandas
+psycopg2-binary
+pydantic[email]
+python-dotenv
+python-multipart
+rapidfuzz
+ruff
+sqlalchemy
+uvicorn[standard]

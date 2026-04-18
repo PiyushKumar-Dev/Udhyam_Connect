@@ -1,0 +1,284 @@
+[
+  {
+    "source_uid": "UTILITY-BIZ-051-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-051",
+    "raw_name": "Keystone Agro Foods T Private Limited",
+    "raw_address": "No.60, College. Road, Layout Noida - 332003",
+    "pan": "TQTFO9461U",
+    "gstin": "11TQTFO9461UJZ9",
+    "license_ids": [
+      "LIC-051-1"
+    ],
+    "service_connection_id": "UTIL-051-S5",
+    "meter_no": "MTR10050",
+    "sanction_load_kw": 20
+  },
+  {
+    "source_uid": "UTILITY-BIZ-052-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-052",
+    "raw_name": "Lotus Vertex Retail R Private Limited",
+    "raw_address": "No.61, Temple. Road, Extension Phagwara - 769367",
+    "pan": "KFVCY6192W",
+    "gstin": "31KFVCY6192WUZP",
+    "license_ids": [
+      "LIC-052-1",
+      "LIC-052-2"
+    ],
+    "service_connection_id": "UTIL-052-S5",
+    "meter_no": "MTR10051",
+    "sanction_load_kw": 21
+  },
+  {
+    "source_uid": "UTILITY-BIZ-053-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-053",
+    "raw_name": "Meridian Reliable Foods R Private Limited",
+    "raw_address": "No.62, Garden. Road, Enclave Latur - 163287",
+    "pan": "DEPTD0783Z",
+    "gstin": "01DEPTD0783ZIZT",
+    "license_ids": [
+      "LIC-053-1",
+      "LIC-053-2"
+    ],
+    "service_connection_id": "UTIL-053-S5",
+    "meter_no": "MTR10052",
+    "sanction_load_kw": 22
+  },
+  {
+    "source_uid": "UTILITY-BIZ-054-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-054",
+    "raw_name": "Nova Royal Retail E Private Limited",
+    "raw_address": "No.63, Lake. Road, Extension Proddatur - 727889",
+    "pan": "LMITJ9892M",
+    "gstin": "03LMITJ9892MKZ4",
+    "license_ids": [
+      "LIC-054-1",
+      "LIC-054-2"
+    ],
+    "service_connection_id": "UTIL-054-S5",
+    "meter_no": "MTR10053",
+    "sanction_load_kw": 23
+  },
+  {
+    "source_uid": "UTILITY-BIZ-055-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-055",
+    "raw_name": "Orbit Metro Foods M Private Limited",
+    "raw_address": "No.64, Park. Road, Bazaar Mango - 872774",
+    "pan": "ZUQDZ1931O",
+    "gstin": "30ZUQDZ1931O0ZJ",
+    "license_ids": [
+      "LIC-055-1",
+      "LIC-055-2"
+    ],
+    "service_connection_id": "UTIL-055-S5",
+    "meter_no": "MTR10054",
+    "sanction_load_kw": 24
+  },
+  {
+    "source_uid": "UTILITY-BIZ-056-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-056",
+    "raw_name": "Prime National Retail U Private Limited",
+    "raw_address": "No.65, Canal. Road, Enclave Bally - 347143",
+    "pan": "ZBUGQ3036R",
+    "gstin": "32ZBUGQ3036RYZC",
+    "license_ids": [
+      "LIC-056-1"
+    ],
+    "service_connection_id": "UTIL-056-S5",
+    "meter_no": "MTR10055",
+    "sanction_load_kw": 25
+  },
+  {
+    "source_uid": "UTILITY-BIZ-057-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-057",
+    "raw_name": "Quantum Silver Foods H Private Limited",
+    "raw_address": "No.66, Temple. Road, Nagar Thanjavur - 223623",
+    "pan": "QXZTL0684W",
+    "gstin": "03QXZTL0684WKZD",
+    "license_ids": [
+      "LIC-057-1",
+      "LIC-057-2"
+    ],
+    "service_connection_id": "UTIL-057-S5",
+    "meter_no": "MTR10056",
+    "sanction_load_kw": 26
+  },
+  {
+    "source_uid": "UTILITY-BIZ-058-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-058",
+    "raw_name": "Riverstone Urban Retail L Private Limited",
+    "raw_address": "No.67, Airport. Road, Bazaar Vijayanagaram - 876036",
+    "pan": "JDNOU1086H",
+    "gstin": "10JDNOU1086HEZ3",
+    "license_ids": [
+      "LIC-058-1",
+      "LIC-058-2"
+    ],
+    "service_connection_id": "UTIL-058-S5",
+    "meter_no": "MTR10057",
+    "sanction_load_kw": 27
+  },
+  {
+    "source_uid": "UTILITY-BIZ-059-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-059",
+    "raw_name": "Summit Eastern Foods O I Private Limited",
+    "raw_address": "No.68, Temple. Road, Extension Bhimavaram - 967054",
+    "pan": "RXMHO0992N",
+    "gstin": "20RXMHO0992NCZY",
+    "license_ids": [
+      "LIC-059-1",
+      "LIC-059-2"
+    ],
+    "service_connection_id": "UTIL-059-S5",
+    "meter_no": "MTR10058",
+    "sanction_load_kw": 28
+  },
+  {
+    "source_uid": "UTILITY-BIZ-060-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-060",
+    "raw_name": "Trident United Retail D Private Limited",
+    "raw_address": "No.69, MG. Road, Bazaar Gurgaon - 734670",
+    "pan": "GOOZH9625V",
+    "gstin": "32GOOZH9625VIZO",
+    "license_ids": [
+      "LIC-060-1",
+      "LIC-060-2"
+    ],
+    "service_connection_id": "UTIL-060-S5",
+    "meter_no": "MTR10059",
+    "sanction_load_kw": 29
+  },
+  {
+    "source_uid": "UTILITY-BIZ-061-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-061",
+    "raw_name": "Aster Agro Foods H Private Limited",
+    "raw_address": "No.70, Airport. Road, Nagar Naihati - 272980",
+    "pan": "QQRSR8696J",
+    "gstin": "24QQRSR8696J8ZF",
+    "license_ids": [
+      "LIC-061-1",
+      "LIC-061-2"
+    ],
+    "service_connection_id": "UTIL-061-S5",
+    "meter_no": "MTR10060",
+    "sanction_load_kw": 30
+  },
+  {
+    "source_uid": "UTILITY-BIZ-062-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-062",
+    "raw_name": "BluePeak Vertex Retail K Private Limited",
+    "raw_address": "No.71, Temple. Road, Colony Guntakal - 162720",
+    "pan": "TEDOZ5982P",
+    "gstin": "22TEDOZ5982P7Z3",
+    "license_ids": [
+      "LIC-062-1"
+    ],
+    "service_connection_id": "UTIL-062-S5",
+    "meter_no": "MTR10061",
+    "sanction_load_kw": 31
+  },
+  {
+    "source_uid": "UTILITY-BIZ-063-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-063",
+    "raw_name": "Cedar Reliable Foods E Private Limited",
+    "raw_address": "No.72, Garden. Road, Nagar Nadiad - 755646",
+    "pan": "TFRRK8503I",
+    "gstin": "30TFRRK8503INZQ",
+    "license_ids": [
+      "LIC-063-1",
+      "LIC-063-2"
+    ],
+    "service_connection_id": "UTIL-063-S5",
+    "meter_no": "MTR10062",
+    "sanction_load_kw": 32
+  },
+  {
+    "source_uid": "UTILITY-BIZ-064-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-064",
+    "raw_name": "Delta Royal Retail U Private Limited",
+    "raw_address": "No.73, Temple. Road, Colony Jodhpur - 805310",
+    "pan": "YCGAW5920O",
+    "gstin": "27YCGAW5920O7ZI",
+    "license_ids": [
+      "LIC-064-1"
+    ],
+    "service_connection_id": "UTIL-064-S5",
+    "meter_no": "MTR10063",
+    "sanction_load_kw": 33
+  },
+  {
+    "source_uid": "UTILITY-BIZ-065-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-065",
+    "raw_name": "Evergreen Metro Foods B Private Limited",
+    "raw_address": "No.74, College. Road, Colony Shahjahanpur - 923271",
+    "pan": "HMCXD4679N",
+    "gstin": "10HMCXD4679NQZG",
+    "license_ids": [
+      "LIC-065-1",
+      "LIC-065-2"
+    ],
+    "service_connection_id": "UTIL-065-S5",
+    "meter_no": "MTR10064",
+    "sanction_load_kw": 34
+  },
+  {
+    "source_uid": "UTILITY-BIZ-066-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-066",
+    "raw_name": "Falcon National Retail T Private Limited",
+    "raw_address": "No.75, Market. Road, Nagar Kirari Suleman Nagar - 529912",
+    "pan": "KYAJL9806R",
+    "gstin": "26KYAJL9806RHZM",
+    "license_ids": [
+      "LIC-066-1"
+    ],
+    "service_connection_id": "UTIL-066-S5",
+    "meter_no": "MTR10065",
+    "sanction_load_kw": 35
+  },
+  {
+    "source_uid": "UTILITY-BIZ-067-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-067",
+    "raw_name": "Golden Silver Foods O Private Limited",
+    "raw_address": "No.76, Garden. Road, Layout Moradabad - 496631",
+    "pan": "CFQZB3972Y",
+    "gstin": "14CFQZB3972YEZV",
+    "license_ids": [
+      "LIC-067-1"
+    ],
+    "service_connection_id": "UTIL-067-S5",
+    "meter_no": "MTR10066",
+    "sanction_load_kw": 36
+  },
+  {
+    "source_uid": "UTILITY-BIZ-068-S5",
+    "source_system": "UTILITY",
+    "business_seed_id": "BIZ-068",
+    "raw_name": "Harbor Urban Retail Z Private Limited",
+    "raw_address": "No.77, Market. Road, Layout Kota - 919058",
+    "pan": "XAWDD2160A",
+    "gstin": "21XAWDD2160A1ZL",
+    "license_ids": [
+      "LIC-068-1",
+      "LIC-068-2"
+    ],
+    "service_connection_id": "UTIL-068-S5",
+    "meter_no": "MTR10067",
+    "sanction_load_kw": 37
+  }
+]

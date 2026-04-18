@@ -1,0 +1,3555 @@
+[
+  {
+    "business_seed_id": "BIZ-001",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-03",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-001",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-22",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-001",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-25",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-002",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-08",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-002",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-30",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-002",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-02",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-003",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-29",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-003",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-13",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-003",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-24",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-004",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-14",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-004",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-11",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-004",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-20",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-005",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-20",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-005",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-08",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-005",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-22",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-006",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-12",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-006",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-30",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-006",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-10",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-007",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-11",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-007",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-24",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-007",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-23",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-008",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-07",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-008",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-17",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-008",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-25",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-009",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-20",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-009",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-15",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-009",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-16",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-010",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-13",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-010",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-010",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-05",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-011",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-22",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-011",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-21",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-011",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-20",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-012",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-04",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-012",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-13",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-012",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-24",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-013",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-18",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-013",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-11",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-013",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-03",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-014",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-01",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-014",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-20",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-014",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-23",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-015",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-19",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-015",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-14",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-015",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-01",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-016",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-24",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-016",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-10",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-016",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-11",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-017",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-29",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-017",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-09",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-017",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-16",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-018",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-23",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-018",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-10",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-018",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-02",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-019",
+    "event_type": "RENEWAL",
+    "event_date": "2025-11-29",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-019",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-019",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-08",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-020",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-28",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-020",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-18",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-020",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-12",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-021",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-14",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-021",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-021",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-09",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-022",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-19",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-022",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-24",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-022",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-11",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-023",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-08",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-023",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-023",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-31",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-024",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-04",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-024",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-11",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-024",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-24",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-025",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-16",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-025",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-12",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-025",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-30",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-026",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-17",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-026",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-21",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-026",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-07",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-027",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-26",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-027",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-13",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-027",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-27",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-028",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-07",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-028",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-18",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-028",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-26",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-029",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-22",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-029",
+    "event_type": "INSPECTION",
+    "event_date": "2026-04-07",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-029",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-19",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-030",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-22",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-030",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-14",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-030",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-27",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-031",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-15",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-031",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-27",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-031",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-14",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-032",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-19",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-032",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-17",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-032",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-01",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-033",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-10",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-033",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-18",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-033",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-26",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-034",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-03",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-034",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-26",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-034",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-22",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-035",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-27",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-035",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-31",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-035",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-17",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-036",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-25",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-036",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-23",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-036",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-23",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-037",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-26",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-037",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-03",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-037",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-16",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-038",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-05",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-038",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-16",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-038",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-09",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-039",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-05",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-039",
+    "event_type": "INSPECTION",
+    "event_date": "2026-04-04",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-039",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-21",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-040",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-29",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-040",
+    "event_type": "INSPECTION",
+    "event_date": "2025-10-30",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-040",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-17",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-041",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-01",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-041",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-10",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-041",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-09",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-042",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-13",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-042",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-13",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-042",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-27",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-043",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-24",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-043",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-09",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-043",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-09",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-044",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-08",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-044",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-23",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-044",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-12",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-045",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-19",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-045",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-24",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-045",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-18",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-046",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-26",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-046",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-26",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-046",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-31",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-047",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-21",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-047",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-12",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-047",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-21",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-048",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-06",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-048",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-05",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-048",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-05",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-049",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-04",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-049",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-04",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-049",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-03",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-050",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-23",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-050",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-19",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-050",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-27",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-051",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-03",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-051",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-26",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-051",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-15",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-052",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-28",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-052",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-10",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-052",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-01",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-053",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-02",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-053",
+    "event_type": "INSPECTION",
+    "event_date": "2026-04-03",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-053",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-01",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-054",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-24",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-054",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-24",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-054",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-02",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-055",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-11",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-055",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-30",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-055",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-28",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-056",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-07",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-056",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-02",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-056",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-08",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-057",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-09",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-057",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-27",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-057",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-31",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-058",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-23",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-058",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-12",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-058",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-24",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-059",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-12",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-059",
+    "event_type": "INSPECTION",
+    "event_date": "2026-04-03",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-059",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-11",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-060",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-31",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-060",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-10",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-060",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-23",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-061",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-01",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-061",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-061",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-02",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-062",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-18",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-062",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-03",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-062",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-16",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-063",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-30",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-063",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-28",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-063",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-22",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-064",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-31",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-064",
+    "event_type": "INSPECTION",
+    "event_date": "2026-04-06",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-064",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-10",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-065",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-04",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-065",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-14",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-065",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-23",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-066",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-22",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-066",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-29",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-066",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-28",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-067",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-11",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-067",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-04",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-067",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-23",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-068",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-13",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-068",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-13",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-068",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-11",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-069",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-27",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-069",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-069",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-02",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-070",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-21",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-070",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-10",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-070",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-04",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-071",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-25",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-071",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-17",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-071",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-30",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-072",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-04",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-072",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-31",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-072",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-10",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-073",
+    "event_type": "RENEWAL",
+    "event_date": "2026-03-04",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-073",
+    "event_type": "INSPECTION",
+    "event_date": "2026-01-07",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-073",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-02-24",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-074",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-20",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-074",
+    "event_type": "INSPECTION",
+    "event_date": "2026-02-26",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-074",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-12",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-075",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-18",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-075",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-02",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-075",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-22",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-076",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-31",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-076",
+    "event_type": "INSPECTION",
+    "event_date": "2025-12-06",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-076",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-03-06",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-077",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-27",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-077",
+    "event_type": "INSPECTION",
+    "event_date": "2026-04-08",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-077",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-16",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-078",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-03",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-078",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-17",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-078",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-03",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-079",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-13",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-079",
+    "event_type": "INSPECTION",
+    "event_date": "2025-11-13",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-079",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-22",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-080",
+    "event_type": "RENEWAL",
+    "event_date": "2026-01-25",
+    "source": "MUNICIPAL",
+    "summary": "Trade license renewed for the current cycle."
+  },
+  {
+    "business_seed_id": "BIZ-080",
+    "event_type": "INSPECTION",
+    "event_date": "2026-03-01",
+    "source": "MCA",
+    "summary": "Routine inspection completed with no major findings."
+  },
+  {
+    "business_seed_id": "BIZ-080",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-06",
+    "source": "UTILITY",
+    "summary": "Electricity usage recorded for the latest billing period."
+  },
+  {
+    "business_seed_id": "BIZ-081",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-24",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-081",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-12",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-082",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-28",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-082",
+    "event_type": "INSPECTION",
+    "event_date": "2024-11-06",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-083",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-08",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-083",
+    "event_type": "INSPECTION",
+    "event_date": "2024-10-20",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-084",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-06",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-084",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-12",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-085",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-18",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-085",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-12",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-086",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-19",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-086",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-25",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-087",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-15",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-087",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-04",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-088",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-10",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-088",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-09",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-089",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-04-01",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-089",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-24",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-090",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-19",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-090",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-02",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-091",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-12",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-091",
+    "event_type": "INSPECTION",
+    "event_date": "2024-10-18",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-092",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-11",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-092",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-10",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-093",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-16",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-093",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-11",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-094",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-22",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-094",
+    "event_type": "INSPECTION",
+    "event_date": "2024-10-16",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-095",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-26",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-095",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-03",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-096",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-17",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-096",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-09",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-097",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-06",
+    "source": "UTILITY",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-097",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-02",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-098",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-22",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-098",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-03",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-099",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-01",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-099",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-23",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-100",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-16",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-100",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-22",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-101",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-02",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-101",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-18",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-102",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-01",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-102",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-28",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-103",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-06",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-103",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-22",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-104",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-23",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-104",
+    "event_type": "INSPECTION",
+    "event_date": "2024-10-22",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-105",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-13",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-105",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-09",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-106",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-05",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-106",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-12",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-107",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-22",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-107",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-15",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-108",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-14",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-108",
+    "event_type": "INSPECTION",
+    "event_date": "2024-10-28",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-109",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-01",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-109",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-19",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-110",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-24",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-110",
+    "event_type": "INSPECTION",
+    "event_date": "2024-05-23",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-111",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-21",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-111",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-14",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-112",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-25",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-112",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-07",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-113",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-28",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-113",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-10",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-114",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-15",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-114",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-26",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-115",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-11",
+    "source": "UTILITY",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-115",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-16",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-116",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-22",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-116",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-18",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-117",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-05",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-117",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-23",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-118",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-21",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-118",
+    "event_type": "INSPECTION",
+    "event_date": "2024-11-04",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-119",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-14",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-119",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-20",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-120",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-10",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-120",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-22",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-121",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-10",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-121",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-03",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-122",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-27",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-122",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-23",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-123",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-08",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-123",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-05",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-124",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-25",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-124",
+    "event_type": "INSPECTION",
+    "event_date": "2024-05-27",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-125",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-04-03",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-125",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-17",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-126",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-16",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-126",
+    "event_type": "INSPECTION",
+    "event_date": "2024-05-21",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-127",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-10",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-127",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-14",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-128",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-06",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-128",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-05",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-129",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-05",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-129",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-15",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-130",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-09",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-130",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-05",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-131",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-31",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-131",
+    "event_type": "INSPECTION",
+    "event_date": "2024-07-16",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-132",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-05",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-132",
+    "event_type": "INSPECTION",
+    "event_date": "2024-11-11",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-133",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-04-03",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-133",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-04",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-134",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-19",
+    "source": "FIRE",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-134",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-10",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-135",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-29",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-135",
+    "event_type": "INSPECTION",
+    "event_date": "2025-01-09",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-136",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-23",
+    "source": "UTILITY",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-136",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-25",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-137",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-27",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-137",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-07",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-138",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-07",
+    "source": "GST",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-138",
+    "event_type": "INSPECTION",
+    "event_date": "2024-11-24",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-139",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-14",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-139",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-15",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-140",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-07",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-140",
+    "event_type": "INSPECTION",
+    "event_date": "2024-11-27",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-141",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-07",
+    "source": "MUNICIPAL",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-141",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-04",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-142",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-23",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-142",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-31",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-143",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-09",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-143",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-19",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-144",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-28",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-144",
+    "event_type": "INSPECTION",
+    "event_date": "2025-03-02",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-145",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-19",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-145",
+    "event_type": "INSPECTION",
+    "event_date": "2025-02-08",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-146",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-14",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-146",
+    "event_type": "INSPECTION",
+    "event_date": "2024-06-30",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-147",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-24",
+    "source": "POLLUTION",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-147",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-04",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-148",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-18",
+    "source": "LABOUR",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-148",
+    "event_type": "INSPECTION",
+    "event_date": "2024-12-29",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-149",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-03-08",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-149",
+    "event_type": "INSPECTION",
+    "event_date": "2024-09-21",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-150",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-25",
+    "source": "MCA",
+    "summary": "Older complaint archived with no recent follow-up."
+  },
+  {
+    "business_seed_id": "BIZ-150",
+    "event_type": "INSPECTION",
+    "event_date": "2024-08-02",
+    "source": "MUNICIPAL",
+    "summary": "Historic inspection record retained for audit purposes."
+  },
+  {
+    "business_seed_id": "BIZ-151",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-04-17",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-151",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-08",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-152",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-10-05",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-152",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-24",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-153",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-08-31",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-153",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-15",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-154",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-07-06",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-154",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-06",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-155",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-12-14",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-155",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-16",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-156",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-04-20",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-156",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-05-26",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-157",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-09-22",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-157",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-05",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-158",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-05-15",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-158",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-24",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-159",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-11-12",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-159",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-28",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-160",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-04-09",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-160",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-17",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-161",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-08-30",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-161",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-07",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-162",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-03-27",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-162",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-13",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-163",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-06-10",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-163",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-31",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-164",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-12-25",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-164",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-16",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-165",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-05-11",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-165",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-06-12",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-166",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-04-30",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-166",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-14",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-167",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-05-25",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-167",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-19",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-168",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-07-21",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-168",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-06",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-169",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-05-31",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-169",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-12-20",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-170",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-02-10",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-170",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-01",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-171",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-12-10",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-171",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-16",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-172",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-01-25",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-172",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-02",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-173",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-10-09",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-173",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-22",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-174",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-09-29",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-174",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-07",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-175",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-12-10",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-175",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-12",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-176",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-09-24",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-176",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-31",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-177",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-05-21",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-177",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-27",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-178",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-08-23",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-178",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-06-26",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-179",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-01-01",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-179",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-21",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-180",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-03-28",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-180",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-28",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-181",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-10-24",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-181",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-05-27",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-182",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-09-28",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-182",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-19",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-183",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-08-11",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-183",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-29",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-184",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-07-24",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-184",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-05",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-185",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-05-16",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-185",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-01-16",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-186",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-02-16",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-186",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-07",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-187",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-11-11",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-187",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-01",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-188",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-10-30",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-188",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-08",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-189",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-04-27",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-189",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-04",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-190",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-11-15",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-190",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-15",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-191",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-07-08",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-191",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-14",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-192",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-01-15",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-192",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-09",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-193",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-11-26",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-193",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-05-25",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-194",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-12-23",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-194",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-03",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-195",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-02-02",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-195",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-07-08",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-196",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-10-03",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-196",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-30",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-197",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-12-18",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-197",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-22",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-198",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-04-29",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-198",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-10-05",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-199",
+    "event_type": "SURRENDERED",
+    "event_date": "2025-02-20",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-199",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-27",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-200",
+    "event_type": "SURRENDERED",
+    "event_date": "2024-06-29",
+    "source": "MUNICIPAL",
+    "summary": "License surrendered and closure noted by the municipal authority.",
+    "status": "surrendered"
+  },
+  {
+    "business_seed_id": "BIZ-200",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-25",
+    "source": "MCA",
+    "summary": "Historic closure-related complaint remains on file."
+  },
+  {
+    "business_seed_id": "BIZ-011",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-25",
+    "source": "FIRE",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-014",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-13",
+    "source": "POLLUTION",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-147",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-06-26",
+    "source": "GST",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-019",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-04",
+    "source": "UTILITY",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-048",
+    "event_type": "ELECTRICITY",
+    "event_date": "2025-12-09",
+    "source": "UTILITY",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-107",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-06-29",
+    "source": "FIRE",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-104",
+    "event_type": "COMPLAINT",
+    "event_date": "2025-02-15",
+    "source": "GST",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-057",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-23",
+    "source": "GST",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-093",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-11-04",
+    "source": "UTILITY",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-193",
+    "event_type": "CANCELLED",
+    "event_date": "2024-04-02",
+    "source": "MUNICIPAL",
+    "summary": "Closure record reaffirmed by a cancelled-license event.",
+    "status": "cancelled"
+  },
+  {
+    "business_seed_id": "BIZ-136",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-03",
+    "source": "FIRE",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-193",
+    "event_type": "CANCELLED",
+    "event_date": "2024-03-17",
+    "source": "MUNICIPAL",
+    "summary": "Closure record reaffirmed by a cancelled-license event.",
+    "status": "cancelled"
+  },
+  {
+    "business_seed_id": "BIZ-003",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-01-19",
+    "source": "MCA",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-062",
+    "event_type": "ELECTRICITY",
+    "event_date": "2026-04-07",
+    "source": "LABOUR",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-083",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-09-20",
+    "source": "POLLUTION",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-030",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-11",
+    "source": "FIRE",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-186",
+    "event_type": "CANCELLED",
+    "event_date": "2024-09-21",
+    "source": "MUNICIPAL",
+    "summary": "Closure record reaffirmed by a cancelled-license event.",
+    "status": "cancelled"
+  },
+  {
+    "business_seed_id": "BIZ-007",
+    "event_type": "RENEWAL",
+    "event_date": "2025-12-07",
+    "source": "POLLUTION",
+    "summary": "Additional recent signal supports active operations."
+  },
+  {
+    "business_seed_id": "BIZ-131",
+    "event_type": "COMPLAINT",
+    "event_date": "2024-08-18",
+    "source": "MCA",
+    "summary": "Historic issue retained without recent activity."
+  },
+  {
+    "business_seed_id": "BIZ-012",
+    "event_type": "RENEWAL",
+    "event_date": "2026-02-27",
+    "source": "GST",
+    "summary": "Additional recent signal supports active operations."
+  }
+]

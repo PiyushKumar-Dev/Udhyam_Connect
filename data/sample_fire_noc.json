@@ -1,0 +1,219 @@
+[
+  {
+    "source_uid": "FIRE-BIZ-069-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-069",
+    "raw_name": "Indus Eastern Foods B Private Limited",
+    "raw_address": "No.78, MG. Road, Colony Uluberia - 067165",
+    "pan": "DKCBL3542T",
+    "gstin": "34DKCBL3542TJZ3",
+    "license_ids": [
+      "LIC-069-1"
+    ],
+    "noc_id": "FIRE-NOC-069-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "MODERATE"
+  },
+  {
+    "source_uid": "FIRE-BIZ-070-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-070",
+    "raw_name": "Jade United Retail B Private Limited",
+    "raw_address": "No.79, Temple. Road, Bazaar Jamnagar - 849877",
+    "pan": "ZWLCS4831E",
+    "gstin": "21ZWLCS4831EOZ7",
+    "license_ids": [
+      "LIC-070-1",
+      "LIC-070-2"
+    ],
+    "noc_id": "FIRE-NOC-070-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "MODERATE"
+  },
+  {
+    "source_uid": "FIRE-BIZ-071-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-071",
+    "raw_name": "Keystone Agro Foods O Private Limited",
+    "raw_address": "No.80, Canal. Road, Enclave Guntakal - 314737",
+    "pan": "NLUCR8584H",
+    "gstin": "30NLUCR8584HPZ0",
+    "license_ids": [
+      "LIC-071-1"
+    ],
+    "noc_id": "FIRE-NOC-071-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "LOW"
+  },
+  {
+    "source_uid": "FIRE-BIZ-072-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-072",
+    "raw_name": "Lotus Vertex Retail K Private Limited",
+    "raw_address": "No.81, Market. Road, Layout Naihati - 527354",
+    "pan": "LRJDX0800X",
+    "gstin": "04LRJDX0800XZZ9",
+    "license_ids": [
+      "LIC-072-1",
+      "LIC-072-2"
+    ],
+    "noc_id": "FIRE-NOC-072-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "MODERATE"
+  },
+  {
+    "source_uid": "FIRE-BIZ-073-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-073",
+    "raw_name": "Meridian Reliable Foods V Private Limited",
+    "raw_address": "No.82, Garden. Road, Layout Parbhani - 808313",
+    "pan": "DJRTW7963S",
+    "gstin": "10DJRTW7963SUZO",
+    "license_ids": [
+      "LIC-073-1"
+    ],
+    "noc_id": "FIRE-NOC-073-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "MODERATE"
+  },
+  {
+    "source_uid": "FIRE-BIZ-074-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-074",
+    "raw_name": "Nova Royal Retail L Private Limited",
+    "raw_address": "No.83, Garden. Road, Nagar Unnao - 777014",
+    "pan": "VJTOU8986U",
+    "gstin": "18VJTOU8986U1ZL",
+    "license_ids": [
+      "LIC-074-1",
+      "LIC-074-2"
+    ],
+    "noc_id": "FIRE-NOC-074-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "HIGH"
+  },
+  {
+    "source_uid": "FIRE-BIZ-075-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-075",
+    "raw_name": "Orbit Metro Foods W Private Limited",
+    "raw_address": "No.84, Garden. Road, Layout Machilipatnam - 495788",
+    "pan": "TXJED6079C",
+    "gstin": "25TXJED6079CQZ3",
+    "license_ids": [
+      "LIC-075-1",
+      "LIC-075-2"
+    ],
+    "noc_id": "FIRE-NOC-075-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "HIGH"
+  },
+  {
+    "source_uid": "FIRE-BIZ-076-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-076",
+    "raw_name": "Prime National Retail F Private Limited",
+    "raw_address": "No.85, Airport. Road, Colony Khandwa - 574443",
+    "pan": "JSUOC0166I",
+    "gstin": "28JSUOC0166IVZ2",
+    "license_ids": [
+      "LIC-076-1",
+      "LIC-076-2"
+    ],
+    "noc_id": "FIRE-NOC-076-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "HIGH"
+  },
+  {
+    "source_uid": "FIRE-BIZ-077-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-077",
+    "raw_name": "Quantum Silver Foods I Private Limited",
+    "raw_address": "No.86, MG. Road, Nagar Nellore - 823374",
+    "pan": "FNICR5532T",
+    "gstin": "14FNICR5532TJZN",
+    "license_ids": [
+      "LIC-077-1"
+    ],
+    "noc_id": "FIRE-NOC-077-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "MODERATE"
+  },
+  {
+    "source_uid": "FIRE-BIZ-078-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-078",
+    "raw_name": "Riverstone Urban Retail Y Private Limited",
+    "raw_address": "No.87, Market. Road, Nagar Salem - 435240",
+    "pan": "GIATE3758Z",
+    "gstin": "26GIATE3758Z2Z1",
+    "license_ids": [
+      "LIC-078-1"
+    ],
+    "noc_id": "FIRE-NOC-078-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "HIGH"
+  },
+  {
+    "source_uid": "FIRE-BIZ-079-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-079",
+    "raw_name": "Summit Eastern Foods O C Private Limited",
+    "raw_address": "No.88, Airport. Road, Colony Panipat - 842710",
+    "pan": "WOOSK1038T",
+    "gstin": "24WOOSK1038T5Z1",
+    "license_ids": [
+      "LIC-079-1"
+    ],
+    "noc_id": "FIRE-NOC-079-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "LOW"
+  },
+  {
+    "source_uid": "FIRE-BIZ-080-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-080",
+    "raw_name": "Trident United Retail H Private Limited",
+    "raw_address": "No.89, Garden. Road, Layout Nandyal - 520471",
+    "pan": "LKCWT2706Q",
+    "gstin": "23LKCWT2706QMZJ",
+    "license_ids": [
+      "LIC-080-1"
+    ],
+    "noc_id": "FIRE-NOC-080-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "LOW"
+  },
+  {
+    "source_uid": "FIRE-BIZ-081-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-081",
+    "raw_name": "Aster Agro Foods D Private Limited",
+    "raw_address": "No.90, College. Road, Extension Rewa - 902294",
+    "pan": "DFPTR1747Y",
+    "gstin": "21DFPTR1747YKZJ",
+    "license_ids": [
+      "LIC-081-1",
+      "LIC-081-2"
+    ],
+    "noc_id": "FIRE-NOC-081-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "HIGH"
+  },
+  {
+    "source_uid": "FIRE-BIZ-082-S6",
+    "source_system": "FIRE",
+    "business_seed_id": "BIZ-082",
+    "raw_name": "BluePeak Vertex Retail C Private Limited",
+    "raw_address": "No.91, Park. Road, Colony Kulti - 999386",
+    "pan": "MQUPJ0403J",
+    "gstin": "06MQUPJ0403JWZY",
+    "license_ids": [
+      "LIC-082-1",
+      "LIC-082-2"
+    ],
+    "noc_id": "FIRE-NOC-082-S6",
+    "issuing_department": "Fire and Emergency Services",
+    "risk_category": "HIGH"
+  }
+]

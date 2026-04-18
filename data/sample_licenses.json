@@ -1,0 +1,1252 @@
+[
+  {
+    "source_uid": "MUNICIPAL-BIZ-001-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-001",
+    "raw_name": "Aster Agro Foods Pvt Ltd",
+    "raw_address": "10 Park Road, Layout, Nagpur, Telangana 332181",
+    "pan": null,
+    "gstin": "15QAHFT6804AWZB",
+    "license_id": "LIC-001-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-003-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-003",
+    "raw_name": "Cedar Reliable Foods Pvt Ltd",
+    "raw_address": "12 College Road, Enclave, Bongaigaon, Maharashtra 794026",
+    "pan": "CWPUS5935U",
+    "gstin": null,
+    "license_id": "LIC-003-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-005-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-005",
+    "raw_name": "Evergreen Metro Foods Pvt Ltd",
+    "raw_address": "14 Market Road, Extension, Mahbubnagar, Himachal Pradesh 781618",
+    "pan": "EJZQO6872B",
+    "gstin": null,
+    "license_id": "LIC-005-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-011-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-011",
+    "raw_name": "Keystone Agro Foods Pvt Ltd",
+    "raw_address": "20 MG Road, Nagar, Shahjahanpur, Telangana 969653",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-011-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-014-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-014",
+    "raw_name": "Nova Royal Retail Pvt Ltd",
+    "raw_address": "23 Park Road, Layout, Mau, Bihar 627048",
+    "pan": "KHGYL8509A",
+    "gstin": null,
+    "license_id": "LIC-014-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-022-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-022",
+    "raw_name": "BluePeak Vertex Retail E Pvt Ltd",
+    "raw_address": "31 Canal Road, Bazaar, Latur, Uttar Pradesh 631165",
+    "pan": "BJYZB3663R",
+    "gstin": null,
+    "license_id": "LIC-022-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-023-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-023",
+    "raw_name": "Cedar Reliable Foods N Pvt Ltd",
+    "raw_address": "32 Canal Road, Nagar, Bulandshahr, Manipur 106513",
+    "pan": "ATIYU8827D",
+    "gstin": null,
+    "license_id": "LIC-023-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-024-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-024",
+    "raw_name": "Delta Royal Retail L Pvt Ltd",
+    "raw_address": "33 Garden Road, Extension, Jhansi, Nagaland 262473",
+    "pan": "HUFAF3892U",
+    "gstin": null,
+    "license_id": "LIC-024-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-025-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-025",
+    "raw_name": "Evergreen Metro Foods I Pvt Ltd",
+    "raw_address": "34 College Road, Layout, Mango, Uttar Pradesh 080132",
+    "pan": "EZGCL7365M",
+    "gstin": "17EZGCL7365M2Z1",
+    "license_id": "LIC-025-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-026-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-026",
+    "raw_name": "Falcon National Retail Q Pvt Ltd",
+    "raw_address": "35 Park Road, Colony, Shivpuri, Meghalaya 602606",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-026-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-027-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-027",
+    "raw_name": "Golden Silver Foods K Pvt Ltd",
+    "raw_address": "36 MG Road, Enclave, Malda, Jharkhand 872343",
+    "pan": "KHDKY6963R",
+    "gstin": null,
+    "license_id": "LIC-027-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-028-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-028",
+    "raw_name": "Harbor Urban Retail O Pvt Ltd",
+    "raw_address": "37 Market Road, Nagar, Adoni, Telangana 500978",
+    "pan": "LRNUY7626T",
+    "gstin": null,
+    "license_id": "LIC-028-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-030-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-030",
+    "raw_name": "Jade United Retail H Pvt Ltd",
+    "raw_address": "39 College Road, Enclave, Jehanabad, Haryana 916998",
+    "pan": "EYNBG8486R",
+    "gstin": null,
+    "license_id": "LIC-030-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-032-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-032",
+    "raw_name": "Lotus Vertex Retail E Pvt Ltd",
+    "raw_address": "41 College Road, Colony, Srinagar, Andhra Pradesh 991183",
+    "pan": "DJDFK3408M",
+    "gstin": null,
+    "license_id": "LIC-032-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-033-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-033",
+    "raw_name": "Meridian Reliable Foods L Pvt Ltd",
+    "raw_address": "42 Canal Road, Extension, Mira-Bhayandar, Kerala 354278",
+    "pan": "HKXVN7784I",
+    "gstin": null,
+    "license_id": "LIC-033-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-036-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-036",
+    "raw_name": "Prime National Retail G Pvt Ltd",
+    "raw_address": "45 College Road, Colony, Chandrapur, West Bengal 164005",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-036-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-039-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-039",
+    "raw_name": "Summit Eastern Foods O Pvt Ltd",
+    "raw_address": "48 Canal Road, Enclave, Bharatpur, Uttar Pradesh 533158",
+    "pan": "LTGWV0824T",
+    "gstin": null,
+    "license_id": "LIC-039-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-040-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-040",
+    "raw_name": "Trident United Retail P Pvt Ltd",
+    "raw_address": "49 Canal Road, Extension, Udupi, Telangana 322602",
+    "pan": "FUIWS2090X",
+    "gstin": null,
+    "license_id": "LIC-040-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-041-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-041",
+    "raw_name": "Aster Agro Foods Z Pvt Ltd",
+    "raw_address": "50 Market Road, Enclave, Bulandshahr, Uttar Pradesh 421607",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-041-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-043-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-043",
+    "raw_name": "Cedar Reliable Foods H Pvt Ltd",
+    "raw_address": "52 Airport Road, Nagar, Ozhukarai, Himachal Pradesh 458685",
+    "pan": "JHSDB0296Y",
+    "gstin": "01JHSDB0296YIZ4",
+    "license_id": "LIC-043-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-045-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-045",
+    "raw_name": "Evergreen Metro Foods R Pvt Ltd",
+    "raw_address": "54 College Road, Bazaar, Satara, Maharashtra 693406",
+    "pan": "TPUFN4489J",
+    "gstin": null,
+    "license_id": "LIC-045-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-047-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-047",
+    "raw_name": "Golden Silver Foods Z Pvt Ltd",
+    "raw_address": "56 Station Road, Enclave, Dewas, Mizoram 656482",
+    "pan": "UPUFC2121B",
+    "gstin": null,
+    "license_id": "LIC-047-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-049-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-049",
+    "raw_name": "Indus Eastern Foods P Pvt Ltd",
+    "raw_address": "58 Park Road, Layout, Avadi, Jharkhand 699577",
+    "pan": "NLHZL8944K",
+    "gstin": "22NLHZL8944KQZ5",
+    "license_id": "LIC-049-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-050-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-050",
+    "raw_name": "Jade United Retail V Pvt Ltd",
+    "raw_address": "59 Garden Road, Extension, Kakinada, Mizoram 214895",
+    "pan": "YVOLI3945A",
+    "gstin": null,
+    "license_id": "LIC-050-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-053-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-053",
+    "raw_name": "Meridian Reliable Foods R Pvt Ltd",
+    "raw_address": "62 Garden Road, Enclave, Latur, Chhattisgarh 163287",
+    "pan": "DEPTD0783Z",
+    "gstin": null,
+    "license_id": "LIC-053-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-054-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-054",
+    "raw_name": "Nova Royal Retail E Pvt Ltd",
+    "raw_address": "63 Lake Road, Extension, Proddatur, Haryana 727889",
+    "pan": "LMITJ9892M",
+    "gstin": null,
+    "license_id": "LIC-054-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-061-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-061",
+    "raw_name": "Aster Agro Foods H Pvt Ltd",
+    "raw_address": "70 Airport Road, Nagar, Naihati, Sikkim 272980",
+    "pan": null,
+    "gstin": "24QQRSR8696J8ZF",
+    "license_id": "LIC-061-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-063-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-063",
+    "raw_name": "Cedar Reliable Foods E Pvt Ltd",
+    "raw_address": "72 Garden Road, Nagar, Nadiad, Karnataka 755646",
+    "pan": "TFRRK8503I",
+    "gstin": null,
+    "license_id": "LIC-063-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-064-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-064",
+    "raw_name": "Delta Royal Retail U Pvt Ltd",
+    "raw_address": "73 Temple Road, Colony, Jodhpur, Meghalaya 805310",
+    "pan": "YCGAW5920O",
+    "gstin": null,
+    "license_id": "LIC-064-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-067-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-067",
+    "raw_name": "Golden Silver Foods O Pvt Ltd",
+    "raw_address": "76 Garden Road, Layout, Moradabad, Odisha 496631",
+    "pan": "CFQZB3972Y",
+    "gstin": "14CFQZB3972YEZV",
+    "license_id": "LIC-067-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-069-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-069",
+    "raw_name": "Indus Eastern Foods B Pvt Ltd",
+    "raw_address": "78 MG Road, Colony, Uluberia, Assam 067165",
+    "pan": "DKCBL3542T",
+    "gstin": null,
+    "license_id": "LIC-069-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-070-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-070",
+    "raw_name": "Jade United Retail B Pvt Ltd",
+    "raw_address": "79 Temple Road, Bazaar, Jamnagar, Maharashtra 849877",
+    "pan": "ZWLCS4831E",
+    "gstin": null,
+    "license_id": "LIC-070-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-071-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-071",
+    "raw_name": "Keystone Agro Foods O Pvt Ltd",
+    "raw_address": "80 Canal Road, Enclave, Guntakal, Himachal Pradesh 314737",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-071-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-073-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-073",
+    "raw_name": "Meridian Reliable Foods V Pvt Ltd",
+    "raw_address": "82 Garden Road, Layout, Parbhani, Punjab 808313",
+    "pan": "DJRTW7963S",
+    "gstin": "10DJRTW7963SUZO",
+    "license_id": "LIC-073-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-075-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-075",
+    "raw_name": "Orbit Metro Foods W Pvt Ltd",
+    "raw_address": "84 Garden Road, Layout, Machilipatnam, Tamil Nadu 495788",
+    "pan": "TXJED6079C",
+    "gstin": null,
+    "license_id": "LIC-075-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-076-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-076",
+    "raw_name": "Prime National Retail F Pvt Ltd",
+    "raw_address": "85 Airport Road, Colony, Khandwa, Telangana 574443",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-076-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-077-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-077",
+    "raw_name": "Quantum Silver Foods I Pvt Ltd",
+    "raw_address": "86 MG Road, Nagar, Nellore, Karnataka 823374",
+    "pan": "FNICR5532T",
+    "gstin": null,
+    "license_id": "LIC-077-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-080-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-080",
+    "raw_name": "Trident United Retail H Pvt Ltd",
+    "raw_address": "89 Garden Road, Layout, Nandyal, Meghalaya 520471",
+    "pan": "LKCWT2706Q",
+    "gstin": null,
+    "license_id": "LIC-080-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-081-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-081",
+    "raw_name": "Aster Agro Foods D Pvt Ltd",
+    "raw_address": "90 College Road, Extension, Rewa, Meghalaya 902294",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-081-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-082-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-082",
+    "raw_name": "BluePeak Vertex Retail C Pvt Ltd",
+    "raw_address": "91 Park Road, Colony, Kulti, Bihar 999386",
+    "pan": "MQUPJ0403J",
+    "gstin": null,
+    "license_id": "LIC-082-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-084-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-084",
+    "raw_name": "Delta Royal Retail B Pvt Ltd",
+    "raw_address": "93 MG Road, Colony, Rajpur Sonarpur, Himachal Pradesh 232812",
+    "pan": "GLLNE3243T",
+    "gstin": null,
+    "license_id": "LIC-084-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-089-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-089",
+    "raw_name": "Indus Eastern Foods G Pvt Ltd",
+    "raw_address": "98 College Road, Layout, Bhiwani, Telangana 940139",
+    "pan": "JYZMH3598Z",
+    "gstin": null,
+    "license_id": "LIC-089-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-091-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-091",
+    "raw_name": "Keystone Agro Foods M Pvt Ltd",
+    "raw_address": "11 MG Road, Enclave, Pallavaram, Assam 565512",
+    "pan": null,
+    "gstin": "31NGZJA9867E8Z4",
+    "license_id": "LIC-091-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-094-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-094",
+    "raw_name": "Nova Royal Retail Q Pvt Ltd",
+    "raw_address": "14 Park Road, Enclave, Maheshtala, Mizoram 977034",
+    "pan": "OUNAW0337L",
+    "gstin": null,
+    "license_id": "LIC-094-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-095-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-095",
+    "raw_name": "Orbit Metro Foods B Pvt Ltd",
+    "raw_address": "15 Airport Road, Nagar, Tumkur, Manipur 109324",
+    "pan": "JIQVR9411W",
+    "gstin": null,
+    "license_id": "LIC-095-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-098-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-098",
+    "raw_name": "Riverstone Urban Retail D Pvt Ltd",
+    "raw_address": "18 College Road, Extension, Yamunanagar, Gujarat 146584",
+    "pan": "CRHPL6308L",
+    "gstin": null,
+    "license_id": "LIC-098-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-101-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-101",
+    "raw_name": "Aster Agro Foods G Pvt Ltd",
+    "raw_address": "21 Market Road, Colony, Bulandshahr, Arunachal Pradesh 766270",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-101-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-103-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-103",
+    "raw_name": "Cedar Reliable Foods Z Pvt Ltd",
+    "raw_address": "23 Park Road, Layout, Alappuzha, West Bengal 174596",
+    "pan": "ZDWBK7444S",
+    "gstin": "21ZDWBK7444S4Z2",
+    "license_id": "LIC-103-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-104-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-104",
+    "raw_name": "Delta Royal Retail V Pvt Ltd",
+    "raw_address": "24 Garden Road, Layout, Ozhukarai, West Bengal 578091",
+    "pan": "NDVOP7158D",
+    "gstin": null,
+    "license_id": "LIC-104-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-105-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-105",
+    "raw_name": "Evergreen Metro Foods W Pvt Ltd",
+    "raw_address": "25 Garden Road, Nagar, Tumkur, Haryana 611724",
+    "pan": "FYNHC1926T",
+    "gstin": null,
+    "license_id": "LIC-105-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-110-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-110",
+    "raw_name": "Jade United Retail J Pvt Ltd",
+    "raw_address": "30 Market Road, Bazaar, Sirsa, West Bengal 367136",
+    "pan": "NWLWS7345G",
+    "gstin": null,
+    "license_id": "LIC-110-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-113-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-113",
+    "raw_name": "Meridian Reliable Foods W Pvt Ltd",
+    "raw_address": "33 MG Road, Bazaar, Jalandhar, Rajasthan 470952",
+    "pan": "OMAIC4388U",
+    "gstin": null,
+    "license_id": "LIC-113-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-114-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-114",
+    "raw_name": "Nova Royal Retail S Pvt Ltd",
+    "raw_address": "34 MG Road, Extension, Sagar, Karnataka 232858",
+    "pan": "MNSUJ8257G",
+    "gstin": null,
+    "license_id": "LIC-114-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-115-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-115",
+    "raw_name": "Orbit Metro Foods W G Pvt Ltd",
+    "raw_address": "35 Airport Road, Bazaar, Dehradun, Himachal Pradesh 451712",
+    "pan": "KUXWT0123V",
+    "gstin": "25KUXWT0123VKZL",
+    "license_id": "LIC-115-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-116-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-116",
+    "raw_name": "Prime National Retail R Pvt Ltd",
+    "raw_address": "36 Temple Road, Layout, Sikar, West Bengal 160481",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-116-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-117-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-117",
+    "raw_name": "Quantum Silver Foods K Pvt Ltd",
+    "raw_address": "37 Station Road, Enclave, Arrah, Sikkim 965137",
+    "pan": "MOYSH5583L",
+    "gstin": null,
+    "license_id": "LIC-117-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-120-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-120",
+    "raw_name": "Trident United Retail U Pvt Ltd",
+    "raw_address": "40 MG Road, Extension, Munger, Manipur 869261",
+    "pan": "BTQGT8094F",
+    "gstin": null,
+    "license_id": "LIC-120-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-121-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-121",
+    "raw_name": "Aster Agro Foods A Pvt Ltd",
+    "raw_address": "41 Airport Road, Enclave, Tadepalligudem, Maharashtra 053773",
+    "pan": null,
+    "gstin": "13HPYIL6581Q7ZV",
+    "license_id": "LIC-121-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-126-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-126",
+    "raw_name": "Falcon National Retail R Pvt Ltd",
+    "raw_address": "46 Airport Road, Nagar, Kanpur, Kerala 950240",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-126-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-128-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-128",
+    "raw_name": "Harbor Urban Retail J Pvt Ltd",
+    "raw_address": "48 Canal Road, Nagar, Bidhannagar, Mizoram 908470",
+    "pan": "KTTZQ4938M",
+    "gstin": null,
+    "license_id": "LIC-128-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-130-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-130",
+    "raw_name": "Jade United Retail E Pvt Ltd",
+    "raw_address": "50 Park Road, Nagar, Narasaraopet, Chhattisgarh 249985",
+    "pan": "HYSCV4780G",
+    "gstin": null,
+    "license_id": "LIC-130-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-131-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-131",
+    "raw_name": "Keystone Agro Foods X Pvt Ltd",
+    "raw_address": "51 Market Road, Bazaar, Kavali, Mizoram 789611",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-131-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-134-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-134",
+    "raw_name": "Nova Royal Retail I Pvt Ltd",
+    "raw_address": "54 MG Road, Nagar, Bhiwani, Bihar 280988",
+    "pan": "FQXWC7126T",
+    "gstin": null,
+    "license_id": "LIC-134-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-137-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-137",
+    "raw_name": "Quantum Silver Foods X E Pvt Ltd",
+    "raw_address": "57 Market Road, Enclave, Raipur, Tripura 936899",
+    "pan": "AOPSH1252R",
+    "gstin": null,
+    "license_id": "LIC-137-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-140-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-140",
+    "raw_name": "Trident United Retail R Pvt Ltd",
+    "raw_address": "60 College Road, Bazaar, Gandhinagar, Maharashtra 525459",
+    "pan": "ZAVRU9101G",
+    "gstin": null,
+    "license_id": "LIC-140-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-142-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-142",
+    "raw_name": "BluePeak Vertex Retail B Pvt Ltd",
+    "raw_address": "62 Lake Road, Layout, Medininagar, Manipur 438156",
+    "pan": "QSCVQ3998B",
+    "gstin": null,
+    "license_id": "LIC-142-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-144-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-144",
+    "raw_name": "Delta Royal Retail V R Pvt Ltd",
+    "raw_address": "64 Market Road, Bazaar, Chennai, Gujarat 324451",
+    "pan": "ITDZS5904C",
+    "gstin": null,
+    "license_id": "LIC-144-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-145-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-145",
+    "raw_name": "Evergreen Metro Foods Z Pvt Ltd",
+    "raw_address": "65 Lake Road, Colony, Mehsana, Telangana 226838",
+    "pan": "ZMJYL6606Z",
+    "gstin": "05ZMJYL6606Z5ZR",
+    "license_id": "LIC-145-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-147-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-147",
+    "raw_name": "Golden Silver Foods D Pvt Ltd",
+    "raw_address": "67 Lake Road, Bazaar, Chapra, Madhya Pradesh 416052",
+    "pan": "AJCPI3230R",
+    "gstin": null,
+    "license_id": "LIC-147-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-148-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-148",
+    "raw_name": "Harbor Urban Retail E Pvt Ltd",
+    "raw_address": "68 Airport Road, Bazaar, Mirzapur, Assam 136968",
+    "pan": "GGDEH2739X",
+    "gstin": null,
+    "license_id": "LIC-148-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-151-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-151",
+    "raw_name": "Keystone Agro Foods X O Pvt Ltd",
+    "raw_address": "71 Lake Road, Enclave, Davanagere, Goa 127799",
+    "pan": null,
+    "gstin": "10YFUVB8761JRZY",
+    "license_id": "LIC-151-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-152-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-152",
+    "raw_name": "Lotus Vertex Retail O Pvt Ltd",
+    "raw_address": "72 Garden Road, Bazaar, Buxar, Rajasthan 527177",
+    "pan": "ZMKNX6573Z",
+    "gstin": null,
+    "license_id": "LIC-152-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-153-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-153",
+    "raw_name": "Meridian Reliable Foods F Pvt Ltd",
+    "raw_address": "73 Lake Road, Bazaar, Panipat, Odisha 581477",
+    "pan": "QBZRK7940I",
+    "gstin": null,
+    "license_id": "LIC-153-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-154-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-154",
+    "raw_name": "Nova Royal Retail L M Pvt Ltd",
+    "raw_address": "74 Station Road, Enclave, Howrah, Kerala 119986",
+    "pan": "MRRDZ4290X",
+    "gstin": null,
+    "license_id": "LIC-154-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-159-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-159",
+    "raw_name": "Summit Eastern Foods N Pvt Ltd",
+    "raw_address": "79 Station Road, Layout, Thoothukudi, Assam 546291",
+    "pan": "POKMN9911J",
+    "gstin": null,
+    "license_id": "LIC-159-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-160-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-160",
+    "raw_name": "Trident United Retail A Pvt Ltd",
+    "raw_address": "80 Park Road, Bazaar, Karaikudi, Madhya Pradesh 281685",
+    "pan": "MFJOQ4474F",
+    "gstin": null,
+    "license_id": "LIC-160-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-161-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-161",
+    "raw_name": "Aster Agro Foods I Pvt Ltd",
+    "raw_address": "81 Market Road, Bazaar, Mirzapur, Jharkhand 357332",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-161-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-163-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-163",
+    "raw_name": "Cedar Reliable Foods Z G Pvt Ltd",
+    "raw_address": "83 Park Road, Layout, Kavali, Madhya Pradesh 229270",
+    "pan": "VUONP1925Q",
+    "gstin": "27VUONP1925Q3ZR",
+    "license_id": "LIC-163-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-164-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-164",
+    "raw_name": "Delta Royal Retail W Pvt Ltd",
+    "raw_address": "84 Canal Road, Extension, Bharatpur, Sikkim 794738",
+    "pan": "WGSVT6452N",
+    "gstin": null,
+    "license_id": "LIC-164-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-165-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-165",
+    "raw_name": "Evergreen Metro Foods W L Pvt Ltd",
+    "raw_address": "85 Garden Road, Extension, Tirupati, Uttar Pradesh 359774",
+    "pan": "LMPWW0966C",
+    "gstin": null,
+    "license_id": "LIC-165-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-172-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-172",
+    "raw_name": "Lotus Vertex Retail J Pvt Ltd",
+    "raw_address": "92 Market Road, Enclave, Bhubaneswar, Tripura 341036",
+    "pan": "QUUGK2608A",
+    "gstin": null,
+    "license_id": "LIC-172-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-175-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-175",
+    "raw_name": "Orbit Metro Foods C Pvt Ltd",
+    "raw_address": "95 Station Road, Extension, Loni, Kerala 888880",
+    "pan": "YDPBR6101A",
+    "gstin": "23YDPBR6101AXZ7",
+    "license_id": "LIC-175-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-176-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-176",
+    "raw_name": "Prime National Retail F L Pvt Ltd",
+    "raw_address": "96 College Road, Colony, Nandyal, Arunachal Pradesh 540515",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-176-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-177-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-177",
+    "raw_name": "Quantum Silver Foods B Pvt Ltd",
+    "raw_address": "97 MG Road, Layout, Vasai-Virar, Tripura 205852",
+    "pan": "MOJGC5725B",
+    "gstin": null,
+    "license_id": "LIC-177-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-178-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-178",
+    "raw_name": "Riverstone Urban Retail E Pvt Ltd",
+    "raw_address": "98 Temple Road, Nagar, Nangloi Jat, Rajasthan 217043",
+    "pan": "EYAUS6229K",
+    "gstin": null,
+    "license_id": "LIC-178-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-179-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-179",
+    "raw_name": "Summit Eastern Foods F Pvt Ltd",
+    "raw_address": "10 MG Road, Enclave, Kollam, Arunachal Pradesh 486874",
+    "pan": "FNBKW8730O",
+    "gstin": null,
+    "license_id": "LIC-179-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-180-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-180",
+    "raw_name": "Trident United Retail O Pvt Ltd",
+    "raw_address": "11 Lake Road, Bazaar, Jhansi, Jharkhand 054156",
+    "pan": "JZZUT5719A",
+    "gstin": null,
+    "license_id": "LIC-180-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-182-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-182",
+    "raw_name": "BluePeak Vertex Retail W Pvt Ltd",
+    "raw_address": "13 Station Road, Layout, Khandwa, Assam 928451",
+    "pan": "XLTPN6350V",
+    "gstin": null,
+    "license_id": "LIC-182-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-185-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-185",
+    "raw_name": "Evergreen Metro Foods V Pvt Ltd",
+    "raw_address": "16 Station Road, Nagar, Anand, Uttar Pradesh 029702",
+    "pan": "HVEYW5501Z",
+    "gstin": null,
+    "license_id": "LIC-185-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-187-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-187",
+    "raw_name": "Golden Silver Foods O B Pvt Ltd",
+    "raw_address": "18 Airport Road, Layout, Uluberia, Kerala 192856",
+    "pan": "EOVKA6121I",
+    "gstin": "03EOVKA6121IFZS",
+    "license_id": "LIC-187-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-188-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-188",
+    "raw_name": "Harbor Urban Retail N Pvt Ltd",
+    "raw_address": "19 MG Road, Extension, Alwar, Haryana 027868",
+    "pan": "WMCJK6729R",
+    "gstin": null,
+    "license_id": "LIC-188-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-189-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-189",
+    "raw_name": "Indus Eastern Foods L Pvt Ltd",
+    "raw_address": "20 Garden Road, Enclave, Firozabad, Tripura 739473",
+    "pan": "XNKEI2870P",
+    "gstin": null,
+    "license_id": "LIC-189-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-190-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-190",
+    "raw_name": "Jade United Retail V H Pvt Ltd",
+    "raw_address": "21 Station Road, Layout, Bhavnagar, West Bengal 727155",
+    "pan": "GVXBZ2873F",
+    "gstin": null,
+    "license_id": "LIC-190-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-191-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-191",
+    "raw_name": "Keystone Agro Foods S Pvt Ltd",
+    "raw_address": "22 College Road, Layout, Jamalpur, Nagaland 422583",
+    "pan": null,
+    "gstin": null,
+    "license_id": "LIC-191-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-192-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-192",
+    "raw_name": "Lotus Vertex Retail K T Pvt Ltd",
+    "raw_address": "23 Park Road, Bazaar, Kollam, Uttar Pradesh 370589",
+    "pan": "FDSXV3059Y",
+    "gstin": null,
+    "license_id": "LIC-192-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-195-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-195",
+    "raw_name": "Orbit Metro Foods X Pvt Ltd",
+    "raw_address": "26 Temple Road, Layout, Warangal, Uttarakhand 268018",
+    "pan": "CJIQZ8673A",
+    "gstin": null,
+    "license_id": "LIC-195-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-197-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-197",
+    "raw_name": "Quantum Silver Foods Z Pvt Ltd",
+    "raw_address": "28 Market Road, Bazaar, Thiruvananthapuram, Rajasthan 249818",
+    "pan": "VHIYB1375C",
+    "gstin": null,
+    "license_id": "LIC-197-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-198-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-198",
+    "raw_name": "Riverstone Urban Retail T Pvt Ltd",
+    "raw_address": "29 Temple Road, Layout, Guntakal, Odisha 299590",
+    "pan": "XECFE6772J",
+    "gstin": null,
+    "license_id": "LIC-198-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-199-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-199",
+    "raw_name": "Summit Eastern Foods E Pvt Ltd",
+    "raw_address": "30 Airport Road, Nagar, Jodhpur, Arunachal Pradesh 396907",
+    "pan": "BACVQ4026C",
+    "gstin": "20BACVQ4026CPZ4",
+    "license_id": "LIC-199-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-200-P0",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-200",
+    "raw_name": "Trident United Retail V Pvt Ltd",
+    "raw_address": "31 College Road, Nagar, Barasat, Meghalaya 647102",
+    "pan": "GQKJJ1042I",
+    "gstin": null,
+    "license_id": "LIC-200-1"
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-002-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-002",
+    "raw_name": "BluePeak Vertex Retail Pvt Ltd",
+    "raw_address": "11, Station Rd near Layout, Patna, Andhra Pradesh 338908",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-002-1",
+      "LIC-002-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-006-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-006",
+    "raw_name": "Falcon National Retail Pvt Ltd",
+    "raw_address": "15, College Rd near Extension, Tadipatri, West Bengal 931034",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-006-1",
+      "LIC-006-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-008-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-008",
+    "raw_name": "Harbor Urban Retail Pvt Ltd",
+    "raw_address": "17, Park Rd near Colony, Bhagalpur, Sikkim 192832",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-008-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-009-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-009",
+    "raw_name": "Indus Eastern Foods Pvt Ltd",
+    "raw_address": "18, Temple Rd near Layout, Nadiad, Himachal Pradesh 503056",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-009-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-010-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-010",
+    "raw_name": "Jade United Retail Pvt Ltd",
+    "raw_address": "19, Canal Rd near Layout, Amritsar, Gujarat 376724",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-010-1",
+      "LIC-010-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-013-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-013",
+    "raw_name": "Meridian Reliable Foods Pvt Ltd",
+    "raw_address": "22, Lake Rd near Layout, Kharagpur, Madhya Pradesh 848018",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-013-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-016-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-016",
+    "raw_name": "Prime National Retail Pvt Ltd",
+    "raw_address": "25, Garden Rd near Nagar, Khora , Karnataka 015430",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-016-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-018-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-018",
+    "raw_name": "Riverstone Urban Retail Pvt Ltd",
+    "raw_address": "27, Lake Rd near Bazaar, Bilaspur, Mizoram 383465",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-018-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-020-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-020",
+    "raw_name": "Trident United Retail Pvt Ltd",
+    "raw_address": "29, MG Rd near Nagar, Giridih, Haryana 103105",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-020-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-021-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-021",
+    "raw_name": "Aster Agro Foods K Pvt Ltd",
+    "raw_address": "30, Garden Rd near Nagar, Kottayam, Haryana 738299",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-021-1",
+      "LIC-021-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-029-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-029",
+    "raw_name": "Indus Eastern Foods E Pvt Ltd",
+    "raw_address": "38, Canal Rd near Layout, Howrah, Mizoram 219136",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-029-1",
+      "LIC-029-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-031-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-031",
+    "raw_name": "Keystone Agro Foods F Pvt Ltd",
+    "raw_address": "40, Temple Rd near Layout, Bhilwara, Gujarat 346247",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-031-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-034-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-034",
+    "raw_name": "Nova Royal Retail X Pvt Ltd",
+    "raw_address": "43, Airport Rd near Layout, Pudukkottai, Uttar Pradesh 841241",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-034-1",
+      "LIC-034-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-035-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-035",
+    "raw_name": "Orbit Metro Foods G Pvt Ltd",
+    "raw_address": "44, Market Rd near Layout, Begusarai, Chhattisgarh 493534",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-035-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-037-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-037",
+    "raw_name": "Quantum Silver Foods S Pvt Ltd",
+    "raw_address": "46, Temple Rd near Colony, Firozabad, Goa 868011",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-037-1",
+      "LIC-037-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-038-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-038",
+    "raw_name": "Riverstone Urban Retail V Pvt Ltd",
+    "raw_address": "47, Station Rd near Extension, Bongaigaon, Arunachal Pradesh 982620",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-038-1",
+      "LIC-038-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-042-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-042",
+    "raw_name": "BluePeak Vertex Retail H Pvt Ltd",
+    "raw_address": "51, Garden Rd near Bazaar, Kollam, Uttarakhand 543303",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-042-1",
+      "LIC-042-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-044-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-044",
+    "raw_name": "Delta Royal Retail O Pvt Ltd",
+    "raw_address": "53, Station Rd near Bazaar, Bhiwandi, Himachal Pradesh 940196",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-044-1"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-046-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-046",
+    "raw_name": "Falcon National Retail I Pvt Ltd",
+    "raw_address": "55, Temple Rd near Colony, Saharsa, Uttar Pradesh 561595",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-046-1",
+      "LIC-046-2"
+    ]
+  },
+  {
+    "source_uid": "MUNICIPAL-BIZ-048-S2",
+    "source_system": "MUNICIPAL",
+    "business_seed_id": "BIZ-048",
+    "raw_name": "Harbor Urban Retail W Pvt Ltd",
+    "raw_address": "57, Park Rd near Layout, Bidar, Sikkim 299468",
+    "pan": null,
+    "gstin": null,
+    "license_ids": [
+      "LIC-048-1"
+    ]
+  }
+]

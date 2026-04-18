@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #0f172a;
+  background:
+    radial-gradient(circle at top left, rgba(30, 64, 175, 0.10), transparent 32%),
+    radial-gradient(circle at top right, rgba(21, 128, 61, 0.08), transparent 28%),
+    linear-gradient(180deg, #f8fafc 0%, #eef4ff 48%, #ffffff 100%);
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+  color: #0f172a;
+  background: transparent;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+.panel {
+  @apply rounded-2xl border border-border bg-white shadow-panel;
+}
+
+.status-pill {
+  @apply inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold tracking-wide;
+}
