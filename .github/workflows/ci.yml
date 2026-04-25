@@ -21,6 +21,20 @@ jobs:
           DATABASE_URL: sqlite://
         run: pytest backend/tests -q
 
+  ml-service:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install ML service deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ml-service/requirements.txt
+      - name: Syntax check
+        run: python -m py_compile ml-service/main.py
+
   frontend:
     runs-on: ubuntu-latest
     steps:
@@ -37,3 +51,15 @@ jobs:
       - name: Build frontend
         working-directory: frontend
         run: npm run build
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install ruff
+        run: pip install ruff
+      - name: Run Ruff
+        run: ruff check .
