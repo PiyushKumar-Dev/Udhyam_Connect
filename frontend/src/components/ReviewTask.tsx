@@ -74,9 +74,16 @@ export function ReviewTask({
         </div>
       </div>
 
-      <div className="panel p-6">
-        <h3 className="text-sm font-semibold uppercase tracking-wide text-muted">Explanation</h3>
-        <p className="mt-3 text-sm leading-6 text-slate-700">{match.explanation}</p>
+      <div className="panel p-6 bg-gradient-to-r from-blue-50 to-indigo-50 border-blue-100 ring-1 ring-blue-200">
+        <div className="flex items-center gap-2">
+          <div className="flex h-6 w-6 items-center justify-center rounded-full bg-primary text-white">
+            <span className="text-[10px] font-bold italic">AI</span>
+          </div>
+          <h3 className="text-sm font-bold uppercase tracking-widest text-primary/80">Intelligent Insight</h3>
+        </div>
+        <p className="mt-4 text-base font-medium leading-relaxed text-slate-800 italic">
+          "{match.explanation}"
+        </p>
       </div>
 
       <div className="panel p-6">

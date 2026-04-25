@@ -92,7 +92,7 @@ export function Dashboard() {
             </button>
           </div>
         )}
-        <section className="mb-8 grid gap-4 md:grid-cols-2 xl:grid-cols-5">
+        <section className="mb-8 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
           <div className="panel p-5">
             <div className="flex items-center justify-between">
               <div>
@@ -104,24 +104,18 @@ export function Dashboard() {
               <Building2 className="h-8 w-8 text-primary" />
             </div>
           </div>
-          <div className="panel p-5">
+          <div className="panel p-5 bg-gradient-to-br from-emerald-50 to-transparent border-emerald-100">
             <div className="flex items-center justify-between">
               <div>
-                <p className="text-sm uppercase tracking-wide text-muted">Active</p>
-                <p className="mt-3 text-3xl font-semibold text-slate-900">{stats.data?.active ?? "-"}</p>
-              </div>
-              <span className="status-pill bg-green-100 text-success">LIVE</span>
-            </div>
-          </div>
-          <div className="panel p-5">
-            <div className="flex items-center justify-between">
-              <div>
-                <p className="text-sm uppercase tracking-wide text-muted">Dormant</p>
+                <p className="text-sm uppercase tracking-wide text-emerald-700 font-bold">AI Auto-Linked</p>
                 <p className="mt-3 text-3xl font-semibold text-slate-900">
-                  {stats.data?.dormant ?? "-"}
+                  {stats.data?.auto_linked_today ?? "0"}
                 </p>
+                <p className="text-[10px] text-emerald-600 font-medium mt-1">Manual effort saved today</p>
               </div>
-              <span className="status-pill bg-amber-100 text-warning">WATCH</span>
+              <div className="rounded-full bg-emerald-100 p-2 text-emerald-600">
+                <Building2 className="h-6 w-6" />
+              </div>
             </div>
           </div>
           <div className="panel p-5">

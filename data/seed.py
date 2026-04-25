@@ -31,50 +31,50 @@ Faker.seed(SEED)
 random.seed(SEED)
 
 PREFIXES = [
-    "Aster",
-    "BluePeak",
-    "Cedar",
-    "Delta",
-    "Evergreen",
-    "Falcon",
-    "Golden",
-    "Harbor",
-    "Indus",
-    "Jade",
-    "Keystone",
-    "Lotus",
-    "Meridian",
-    "Nova",
-    "Orbit",
-    "Prime",
-    "Quantum",
-    "Riverstone",
-    "Summit",
-    "Trident",
+    "Tech",
+    "Sri",
+    "Om",
+    "Sai",
+    "Balaji",
+    "Nandi",
+    "Kaveri",
+    "Deccan",
+    "Info",
+    "Wipro",
+    "Reliance",
+    "Tata",
+    "Birla",
+    "Mahindra",
+    "Adani",
+    "Kiran",
+    "Bharath",
+    "Hindustan",
+    "Global",
+    "Apex",
 ]
 MIDDLES = [
-    "Agro",
-    "Urban",
-    "Metro",
-    "Vertex",
-    "Eastern",
-    "National",
-    "Reliable",
-    "United",
-    "Silver",
-    "Royal",
+    "Enterprises",
+    "Industries",
+    "Technologies",
+    "Solutions",
+    "Services",
+    "Traders",
+    "Consulting",
+    "Ventures",
+    "Systems",
+    "Infotech",
 ]
 SECTORS = [
-    "Foods",
+    "Software",
+    "Hardware",
+    "Retail",
     "Manufacturing",
     "Logistics",
-    "Ventures",
-    "Traders",
-    "Retail",
-    "Hospitality",
-    "Pharma",
     "Textiles",
-    "Industries",
+    "Pharma",
+    "Automotive",
+    "Electronics",
+    "Foods",
 ]
 ROADS = ["MG", "Park", "Station", "Lake", "Temple", "Market", "Canal", "Airport", "Garden", "College"]
 AREAS = ["Nagar", "Layout", "Enclave", "Extension", "Bazaar", "Colony"]
@@ -124,11 +124,9 @@ def _base_address(index: int) -> dict[str, str]:
     house_no = str(10 + (index % 89))
     road = random.choice(ROADS)
     area = random.choice(AREAS)
-    city = faker.city()
-    state = faker.state()
-    pincode = faker.postcode()
-    while len(pincode) != 6 or not pincode.isdigit():
-        pincode = faker.postcode()
+    city = "Bengaluru"
+    state = "Karnataka"
+    pincode = f"560{random.randint(1, 107):03d}"
     return {
         "house_no": house_no,
         "road": road,

@@ -20,6 +20,15 @@ services:
         generateValue: true
       - key: FRONTEND_ORIGIN
         value: https://udhyam-frontend.onrender.com
+      - key: ML_SERVICE_URL
+        value: https://udhyam-ml-service.onrender.com
+
+  - type: web
+    name: udhyam-ml-service
+    plan: free
+    runtime: docker
+    dockerfilePath: ml-service/Dockerfile
+    dockerContext: ml-service
 
   - type: web
     name: udhyam-frontend

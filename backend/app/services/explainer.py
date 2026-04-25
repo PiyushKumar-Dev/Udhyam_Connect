@@ -14,24 +14,20 @@ def _pct(score: float) -> int:
 
 
 def generate_explanation(evidence: dict) -> str:
+    # Use ML-generated justification if available (AI for Bharat requirement)
+    justification = evidence.get("justification")
+    if justification:
+        return f"AI Insight: {justification} (Confidence: {_pct(evidence.get('final', 0))}%)"
+
+    # Fallback to template-based explanation
     parts = [
-        f"name similarity {_pct(evidence['name_score'])}% ({_band(evidence['name_score'])})",
-        f"address similarity {_pct(evidence['address_score'])}% ({_band(evidence['address_score'])})",
+        f"name similarity {_pct(evidence.get('name_score', 0))}%",
+        f"address similarity {_pct(evidence.get('address_score', 0))}%",
     ]
 
     if evidence.get("shared_pan"):
-        parts.append(f"shared PAN {evidence['shared_pan']} (exact)")
-    else:
-        parts.append(f"PAN comparison {_pct(evidence['pan_score'])}%")
-
+        parts.append(f"shared PAN {evidence['shared_pan']}")
     if evidence.get("shared_gstin"):
-        parts.append(f"shared GSTIN {evidence['shared_gstin']} (exact)")
-    else:
-        parts.append(f"GSTIN comparison {_pct(evidence['gstin_score'])}%")
+        parts.append(f"shared GSTIN {evidence['shared_gstin']}")
 
-    if evidence.get("licenses_compared"):
-        parts.append(f"license overlap {_pct(evidence['license_score'])}%")
-    else:
-        parts.append("license data not available for comparison")
-
-    return f"Matched because: {', '.join(parts)}. Final confidence {_pct(evidence['final'])}%."
+    return f"Matched because: {', '.join(parts)}. Final confidence {_pct(evidence.get('final', 0))}%."

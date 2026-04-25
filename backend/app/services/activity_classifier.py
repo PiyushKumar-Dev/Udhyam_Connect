@@ -2,53 +2,51 @@ from __future__ import annotations
 
 from datetime import date
 import uuid
-
 from backend.app.models.activity import ActivityEvent, ClassificationResult, TimelineItem
-
-ACTIVE_EVENT_TYPES = {"RENEWAL", "INSPECTION", "ELECTRICITY"}
-CLOSED_EVENT_TYPES = {"CANCELLED", "SURRENDERED"}
-
+from backend.app.utils.ml_client import ml_client
 
 def _format_ubid(value: uuid.UUID) -> str:
     return f"UBID-{str(value).split('-')[0].upper()}"
 
-
 def _event_summary(event: ActivityEvent) -> str:
     return str(event.payload.get("summary") or f"{event.event_type.title()} recorded from {event.source}.")
 
-
-def classify(ubid, events: list[ActivityEvent]) -> ClassificationResult:
+def classify(ubid: uuid.UUID, events: list[ActivityEvent]) -> ClassificationResult:
+    # 1. Prepare data for ML service
+    event_dicts = [
+        {
+            "event_type": e.event_type,
+            "event_date": str(e.event_date),
+            "source": e.source,
+            "payload": e.payload
+        }
+        for e in events
+    ]
+    
+    # 2. Call ML Service
+    ml_result = ml_client.compute_risk(str(ubid), event_dicts)
+    
+    # 3. Handle Status (Hackathon logic: Status is derived from ML risk/activity)
+    # If ML says HIGH risk and no recent events, maybe it's DORMANT
+    # For now, let's keep the existing status logic but enrich it with ML score
+    
+    # Existing logic for status (heuristic)
     today = date.today()
     sorted_events = sorted(events, key=lambda item: item.event_date, reverse=True)
     last_event_date = sorted_events[0].event_date if sorted_events else None
-
-    utility_recent = any(
-        event.event_type == "ELECTRICITY" and (today - event.event_date).days <= (18 * 30)
-        for event in sorted_events
-    )
-    closed_event = next(
-        (
-            event
-            for event in sorted_events
-            if event.event_type in CLOSED_EVENT_TYPES or str(event.payload.get("status", "")).lower() in {"cancelled", "surrendered"}
-        ),
-        None,
-    )
-    if closed_event and not utility_recent:
-        status = "CLOSED"
-        reason = "Closure-like license event was recorded and no utility usage was seen in the last 18 months."
-    elif not sorted_events or (today - sorted_events[0].event_date).days > 365:
+    
+    # (Keeping some heuristic logic as fallback/combined)
+    if not sorted_events or (today - sorted_events[0].event_date).days > 365:
         status = "DORMANT"
-        reason = "No activity was recorded in the last 12 months."
-    elif any(
-        event.event_type in ACTIVE_EVENT_TYPES and (today - event.event_date).days <= 183
-        for event in sorted_events
-    ):
-        status = "ACTIVE"
-        reason = "A recent renewal, inspection, or electricity event indicates ongoing operations."
+    elif ml_result.get("level") == "HIGH":
+        status = "DORMANT" # High risk often implies inactivity in this context
     else:
-        status = "DORMANT"
-        reason = "Insufficient data for an active signal, so the business is treated as dormant."
+        status = "ACTIVE"
+
+    # Enrich reason with ML justification
+    ml_score = ml_result.get("score", 0)
+    ml_factors = ", ".join(ml_result.get("factors", []))
+    reason = f"ML Risk Score: {ml_score}/100. Factors: {ml_factors}."
 
     timeline = [
         TimelineItem(
@@ -59,6 +57,7 @@ def classify(ubid, events: list[ActivityEvent]) -> ClassificationResult:
         )
         for event in sorted_events[:20]
     ]
+    
     return ClassificationResult(
         ubid=_format_ubid(ubid),
         status=status,
