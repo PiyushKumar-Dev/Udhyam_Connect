@@ -1,9 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from typing import List, Optional, Dict
-import random
+from typing import List
 from rapidfuzz import fuzz
-from datetime import date
 
 app = FastAPI(title="Udhyam Connect ML Service - AI for Bharat Edition")
 
@@ -51,10 +49,14 @@ def compute_match_score(req: MatchRequest):
     
     # Generate Justification (AI for Bharat requirement)
     justification = []
-    if pan_match == 1.0: justification.append("Identical PAN identifier found.")
-    if gst_match == 1.0: justification.append("Identical GSTIN identifier found.")
-    if name_score > 0.9: justification.append("Business names are nearly identical.")
-    elif name_score > 0.7: justification.append("Significant phonetic/token overlap in business names.")
+    if pan_match == 1.0:
+        justification.append("Identical PAN identifier found.")
+    if gst_match == 1.0:
+        justification.append("Identical GSTIN identifier found.")
+    if name_score > 0.9:
+        justification.append("Business names are nearly identical.")
+    elif name_score > 0.7:
+        justification.append("Significant phonetic/token overlap in business names.")
     
     if final_score < 0.6 and (pan_match == 0.0 or gst_match == 0.0):
         decision = "REJECTED"
@@ -90,11 +92,14 @@ def compute_risk(req: RiskRequest):
     has_recent_electricity = any(e.event_type == "ELECTRICITY" for e in events[:5])
     has_recent_renewal = any(e.event_type == "RENEWAL" for e in events[:5])
     
-    if has_recent_electricity: score -= 20
-    if has_recent_renewal: score -= 15
+    if has_recent_electricity:
+        score -= 20
+    if has_recent_renewal:
+        score -= 15
     
     # Negative signals
-    if len(events) < 2: score += 10
+    if len(events) < 2:
+        score += 10
     
     level = "LOW" if score < 40 else "MEDIUM" if score < 70 else "HIGH"
     
