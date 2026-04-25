@@ -588,13 +588,15 @@ def seed_database() -> None:
                 print("Adding dummy auto-linked records for dashboard stats...")
                 # Pick some existing businesses to link
                 biz_records = session.execute(select(SourceRecord).limit(10)).scalars().all()
+                from datetime import datetime
                 for i in range(min(7, len(biz_records) - 1)):
                     session.add(MatchPair(
                         record_a_id=biz_records[i].id,
                         record_b_id=biz_records[i+1].id,
                         confidence=0.95,
                         decision="AUTO_LINKED",
-                        evidence={"final": 0.95, "justification": "Seeded for dashboard activity demo."}
+                        evidence={"final": 0.95, "justification": "Seeded for dashboard activity demo."},
+                        created_at=datetime.now()
                     ))
                 session.commit()
             except Exception as e:
