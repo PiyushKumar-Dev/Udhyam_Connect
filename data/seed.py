@@ -597,6 +597,7 @@ def seed_database() -> None:
                 ))
             session.commit()
 
+        businesses = session.execute(select(Business).where(Business.source_records.any())).scalars().all()
         print(
             f"Seed completed with {len(businesses)} visible businesses, "
             f"{len(pending_pairs)} pending match pairs, and {len(pending_reviews)} open review tasks."
