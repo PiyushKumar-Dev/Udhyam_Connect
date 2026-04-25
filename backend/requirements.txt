@@ -10,4 +10,5 @@ python-multipart
 rapidfuzz
 ruff
 sqlalchemy
+httpx
 uvicorn[standard]
