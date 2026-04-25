@@ -533,48 +533,70 @@ def seed_database() -> None:
     session = SessionLocal()
     try:
         existing = session.execute(select(SourceRecord.id).limit(1)).first()
-        if existing:
-            print("Seed skipped: source records already exist.")
-            return
+        if not existing:
+            records = _load_exported_records()
+            summary = ingest_records(session, records, actor="seed")
+            print(f"Ingested {summary['records_ingested']} records.")
 
-        records = _load_exported_records()
-        summary = ingest_records(session, records, actor="seed")
-        print(f"Ingested {summary['records_ingested']} records.")
+            all_records = session.execute(select(SourceRecord)).scalars().all()
+            business_map: dict[str, object] = {}
+            for record in all_records:
+                business_seed_id = record.raw_payload.get("business_seed_id")
+                if business_seed_id and record.ubid:
+                    business_map[str(business_seed_id)] = record.ubid
 
-        all_records = session.execute(select(SourceRecord)).scalars().all()
-        business_map: dict[str, object] = {}
-        for record in all_records:
-            business_seed_id = record.raw_payload.get("business_seed_id")
-            if business_seed_id and record.ubid:
-                business_map[str(business_seed_id)] = record.ubid
-
-        events = _load_events()
-        for event in events:
-            ubid = business_map.get(event["business_seed_id"])
-            if ubid is None:
-                continue
-            session.add(
-                ActivityEvent(
-                    ubid=ubid,
-                    event_type=event["event_type"],
-                    event_date=date.fromisoformat(event["event_date"]),
-                    source=event["source"],
-                    payload={
-                        "summary": event["summary"],
-                        "status": event.get("status"),
-                        "business_seed_id": event["business_seed_id"],
-                    },
+            events = _load_events()
+            for event in events:
+                ubid = business_map.get(event["business_seed_id"])
+                if ubid is None:
+                    continue
+                session.add(
+                    ActivityEvent(
+                        ubid=ubid,
+                        event_type=event["event_type"],
+                        event_date=date.fromisoformat(event["event_date"]),
+                        source=event["source"],
+                        payload={
+                            "summary": event["summary"],
+                            "status": event.get("status"),
+                            "business_seed_id": event["business_seed_id"],
+                        },
+                    )
                 )
-            )
-        session.commit()
+            session.commit()
 
-        businesses = session.execute(select(Business).where(Business.source_records.any())).scalars().all()
-        for business in businesses:
-            apply_activity_status(session, business, "seed")
-        session.commit()
+            businesses = session.execute(select(Business).where(Business.source_records.any())).scalars().all()
+            for business in businesses:
+                apply_activity_status(session, business, "seed")
+            session.commit()
+        else:
+            print("Main ingestion skipped: source records already exist.")
 
         pending_reviews = session.execute(select(ReviewTask).where(ReviewTask.status == "OPEN")).scalars().all()
         pending_pairs = session.execute(select(MatchPair).where(MatchPair.decision == "PENDING")).scalars().all()
+        
+        # Ensure we show some 'Auto-Linked Today' activity for the demo
+        auto_linked_today = session.execute(
+            select(func.count(MatchPair.id)).where(
+                MatchPair.decision == "AUTO_LINKED",
+                func.date(MatchPair.created_at) == date.today()
+            )
+        ).scalar_one()
+        
+        if auto_linked_today < 5:
+            print("Adding dummy auto-linked records for dashboard stats...")
+            # Pick some existing businesses to link
+            biz_records = session.execute(select(SourceRecord).limit(10)).scalars().all()
+            for i in range(min(7, len(biz_records) - 1)):
+                session.add(MatchPair(
+                    record_a_id=biz_records[i].id,
+                    record_b_id=biz_records[i+1].id,
+                    confidence=0.95,
+                    decision="AUTO_LINKED",
+                    evidence={"final": 0.95, "justification": "Seeded for dashboard activity demo."}
+                ))
+            session.commit()
+
         print(
             f"Seed completed with {len(businesses)} visible businesses, "
             f"{len(pending_pairs)} pending match pairs, and {len(pending_reviews)} open review tasks."
