@@ -584,18 +584,22 @@ def seed_database() -> None:
         ).scalar_one()
         
         if auto_linked_today < 5:
-            print("Adding dummy auto-linked records for dashboard stats...")
-            # Pick some existing businesses to link
-            biz_records = session.execute(select(SourceRecord).limit(10)).scalars().all()
-            for i in range(min(7, len(biz_records) - 1)):
-                session.add(MatchPair(
-                    record_a_id=biz_records[i].id,
-                    record_b_id=biz_records[i+1].id,
-                    confidence=0.95,
-                    decision="AUTO_LINKED",
-                    evidence={"final": 0.95, "justification": "Seeded for dashboard activity demo."}
-                ))
-            session.commit()
+            try:
+                print("Adding dummy auto-linked records for dashboard stats...")
+                # Pick some existing businesses to link
+                biz_records = session.execute(select(SourceRecord).limit(10)).scalars().all()
+                for i in range(min(7, len(biz_records) - 1)):
+                    session.add(MatchPair(
+                        record_a_id=biz_records[i].id,
+                        record_b_id=biz_records[i+1].id,
+                        confidence=0.95,
+                        decision="AUTO_LINKED",
+                        evidence={"final": 0.95, "justification": "Seeded for dashboard activity demo."}
+                    ))
+                session.commit()
+            except Exception as e:
+                session.rollback()
+                print(f"Warning: Could not create dummy match records: {e}")
 
         businesses = session.execute(select(Business).where(Business.source_records.any())).scalars().all()
         print(
