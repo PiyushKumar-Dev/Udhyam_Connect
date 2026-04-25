@@ -9,7 +9,7 @@ import random
 import string
 
 from faker import Faker
-from sqlalchemy import select
+from sqlalchemy import func, select
 
 from backend.app.database import SessionLocal
 from backend.app.models.activity import ActivityEvent
